@@ -24,7 +24,7 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 
 The UI/UX design and interactive prototype for **Jorjot** are hosted on Figma.
 
-- **[Design File (Inspect)](https://www.figma.com/design/rW3p7Is9Ks2fuPJ2EQpUnm/Project-group-5?node-id=0-1&t=skiMKNVlhcTruu2f-1)**: For inspecting CSS, exporting assets, and checking layout specs.
+- **[Design File (Inspect)](https://www.figma.com/design/rW3p7Is9Ks2fuPJ2EQpUnm/Project-group-5?node-id=0-1&t=skiMKNVlhcTruu2f-1)**
 - **[Interactive Prototype](https://www.figma.com/proto/rW3p7Is9Ks2fuPJ2EQpUnm/Project-group-5?node-id=57-189&p=f&t=2mij3XCPv5E3ELCY-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=7%3A112)**: For viewing user flows and interactions.
 
 ## Learn More
